@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">ReceiptReader</string>
+    <string name="txtEmail">Email</string>
+    <string name="txtPassword">Password</string>
+    <string name="btnLogin">Login</string>
+    <string name="txv_lostPass">Lost password?</string>
+    <string name="btnRegister">Register</string>
+    <string name="btnTakePhoto">Take Picture</string>
+    <string name="btnUploadPhoto">Upload Picture</string>
+    <string name="txtImgName">Insert Image Name</string>
+    <string name="shop">shopPlaceholder</string>
+    <string name="cost">costPlaceholder</string>
+    <string name="costPlaceholder">Cost:</string>
+    <string name="filterHint">Put filter here</string>
+    <string name="applyFilter">Apply</string>
+    <string name="profileEmail">Email:</string>
+    <string name="profileId">ID (for bugs)</string>
+    <string name="profileLogout">Logout</string>
+    <string name="profileNumberReceipts">Number of receipts</string>
+</resources>
